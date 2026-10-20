@@ -2,7 +2,7 @@
 
 **Przedmiot:** Uczenie głębokie do rozpoznawania obiektów
 **Zajęcia nr / temat:** Zajęcia 1 - Obraz jako dane; pierwszy klasyfikator obrazów (MLP)
-**Autor:** Bartek
+**Autor:** Bartosz Paluda
 **Data:** 20.10.2026
 
 **1. Cel ćwiczenia**
