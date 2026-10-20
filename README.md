@@ -1,1 +1,0 @@
-# Rozpoznawanie_obiektow_bartoszpaluda
