@@ -18,6 +18,8 @@ Przetestowano pięć wariantów architektury MLP:
 - Wariant 5: warstwy (1024, 512)
 
 Modele trenowano przez 8 epok, wykorzystując optymalizator Adam (`lr=1e-3`) oraz funkcję straty CrossEntropyLoss. Rozmiar batcha wynosił 128 dla zbioru treningowego i 256 dla testowego.
+Kod - lab1_bartoszpaluda_poprawiony
+Link do repozytorium - https://github.com/bartoszpaluda/Rozpoznawanie_obiektow_bartoszpaluda
 
 **3. Wyniki**
 Zestawienie przetestowanych architektur:
